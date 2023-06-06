@@ -8,12 +8,16 @@ Nuestro dataset se encuentra en la nube en drive, el cual se puede acceder atrev
 https://drive.google.com/drive/folders/1DhFeAb_qjpUBuk89VFcVxUUqF_alDXCl?usp=sharing
 ```
 ## Modelo
-El modelo es muy pesado para subirlo, aquí dejo el link para poder descargarlo.
+Como el modelo entrenado es muy pesado para subirlo, aquí dejo el link para poder descargarlo.
 ```sh
 https://drive.google.com/file/d/1-9a0RtmZVF2b3KLF1y8Cpief2M5-tfCR/view?usp=sharing
 ```
 Y para **`"instalarlo"`** solo se debe de descargar dentro de la carpeta raíz Tsipikua.
 
+El codigo del modelo se encuentra en el siguiente link.
+ ```sh
+ https://colab.research.google.com/drive/1xWn3ggyTUZAlc0_EazcrRhJ9ft-NnnDK?usp=sharing
+ ```
 
 ## Requerimientos
 
